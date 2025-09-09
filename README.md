@@ -9,7 +9,7 @@ Estudante de Ciências da Computação e Desenvolvimento de Sistemas com interes
 ## 🔗 Conexões
 
 <a href="https://www.linkedin.com/in/jos%C3%A9neiva/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="28"/>
 </a>
 <a href="https://github.com/Joseneiva?tab=followers" target="_blank">
   <img src="https://custom-icon-badges.demolab.com/github/followers/Joseneiva?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" alt="GitHub Followers" width="120"/>
