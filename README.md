@@ -34,9 +34,9 @@ Estudante de Ciências da Computação e Desenvolvimento de Sistemas com interes
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📊 Estatísticas
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Joseneiva&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseneiva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="Top Languages" height="180" />
 </p>
